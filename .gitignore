@@ -1,0 +1,6 @@
+NUS-Hand-Posture-Dataset-II/
+test.ipynb
+__pycache__/
+*.pyc
+*.pth
+*.pt
